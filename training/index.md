@@ -8,4 +8,5 @@ The articles below are designed to help you use the tools available to members, 
 
 ### Articles
 
-* [Project GitHub Pages](project-ghpages.html)
+* [Project Website Setup](project-ghpages.html) *(using GitHub Pages)*
+
