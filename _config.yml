@@ -7,9 +7,10 @@ defaults:
       layout: "slate"
       author: "John Casey"
 
-siteTitle: "Commonjava@GitHub"
+siteTitle: "The Shop @LCfE"
+siteUrl: "http://freemakers.github.io/"
 projectTitle: ""
-tagline: "Documentation for Commonjava projects available on GitHub"
+tagline: "Project Spaces and Training Materials"
 owner: "John Casey"
 ownerEmail: jdcasey@commonjava.org
 

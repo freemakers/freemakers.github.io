@@ -1,0 +1,9 @@
+- name: "LCfE Main Page"
+  nav: "main-site"
+  url: "http://larryville-entrepreneur.blogspot.com"
+- name: "Projects"
+  nav: "projects"
+  url: projects/index.html
+- name: "Training"
+  nav: "training"
+  url: training/index.html
